@@ -12,6 +12,6 @@
 <p><h3><span style="background-color:#ffff00;"><marquee behavior="alternate">↑ takeshi-kano-icsさんの画像お借りしました！勝手に借りてごめんなさいm(_ _)m ↑</marquee></span></h3></p>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  関根マンション情報 → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
 <figure>
-  <img src="https://torokoid.github.io/cautious-barancle/images/0B7A7529.JPG" alt="">
+  <img src="https://torokoid.github.io/cautious-barancle/0B7A7529.JPG" alt="">
 </figure>
 <body class="mod-body"> </body>
