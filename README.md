@@ -19,6 +19,6 @@
 </figure>
 <br>
 <img src="https://plus.google.com/u/0/photos/photo/107233626263340969070/6547215742814560098?sqid=116586967201506322173&ssid=56db5f68-7f60-481d-9f92-e4e5fc15d5a4" alt="ライオンの画像" width="314" height="229" border="0" />
-<img src="\jpg\0B7A7718.jpg" alt="">
+<img src="/jpg/0B7A7718.jpg" alt="">
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  関根マンション情報 → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
 <body class="mod-body"> </body>
