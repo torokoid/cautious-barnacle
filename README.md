@@ -18,6 +18,7 @@
   <a href="https://plus.google.com/u/0/+torokoidMibu/posts/XGE9FYETsnd">ネモフィラ_2</a>
 </figure>
 <br>
+<img src="https://plus.google.com/u/0/+torokoidMibu/posts/XGE9FYETsnd" alt="ライオンの画像" width="314" height="229" border="0" />
 <img src="https://plus.google.com/u/0/+torokoidMibu/posts/XGE9FYETsnd" alt="">
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  関根マンション情報 → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
 <body class="mod-body"> </body>
