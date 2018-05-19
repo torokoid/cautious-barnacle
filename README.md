@@ -20,6 +20,6 @@
 <br>
 <img src="https://github.com/torokoid/cautious-barnacle/blob/master/0B7A7718.JPG" alt="ひたち海浜公園のネモフィラ" width="314" height="229" border="0" />
 <br>
-<img src="https://github.com/torokoid/cautious-barnacle/blob/master/0B7A7718.JPG" alt="">
+<img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="">
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  関根マンション情報 → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
 <body class="mod-body"> </body>
