@@ -13,5 +13,8 @@
 <figure>
   <a href="https://plus.google.com/u/0/photos/photo/107233626263340969070/6547267090878852370?sqid=110457794618962540880&ssid=fcbc648f-5a07-4787-8161-bfd8b923ecfc">ネモフィラ</a>
 </figure>
+<figure>
+  <img src="https://plus.google.com/u/0/+torokoidMibu/posts/XGE9FYETsnd" alt="">
+</figure>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  関根マンション情報 → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
 <body class="mod-body"> </body>
