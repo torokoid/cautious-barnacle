@@ -18,7 +18,7 @@
   <a href="https://plus.google.com/u/0/+torokoidMibu/posts/XGE9FYETsnd">ネモフィラ_2</a>
 </figure>
 <br>
-<img src="https://github.com/torokoid/cautious-barnacle/blob/master/0B7A7718.JPG" alt="ひたち海浜公園のネモフィラ" width="314" height="229" border="0" />
+<img src="https://github.com/torokoid/cautious-barnacle/blob/master/0B7A7718.JPG" alt="" width="314" height="229" border="0" />
 <br>
 <img src="https://github.com/torokoid/cautious-barnacle/blob/master/0B7A7501.JPG" alt="ひたち海浜公園のネモフィラ" width="314" height="229" border="0" />
 <br>
