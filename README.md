@@ -9,7 +9,7 @@
 <figure>
   <img src="https://ics-kano.github.io/16018_myProject/images/animal1.jpg" alt="">
 </figure>
-<p><h3><span style="background-color:#ffff00;"><marquee behavior="alternate">↑ takeshi-kano-icsさんの画像お借りしました！勝手に借りてごめんなさいm(_ _)m ↑</marquee></span></h3></p>
+<p><h3><span style="color:#ff0000; style="background-color:#ffff00;"><marquee behavior="alternate">↑ takeshi-kano-icsさんの画像お借りしました！勝手に借りてごめんなさいm(_ _)m ↑</marquee></span></h3></p>
 <figure>
   <a href="https://plus.google.com/u/0/photos/photo/107233626263340969070/6547267090878852370?sqid=110457794618962540880&ssid=fcbc648f-5a07-4787-8161-bfd8b923ecfc">ネモフィラ</a>
 </figure>
