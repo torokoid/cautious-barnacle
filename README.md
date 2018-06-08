@@ -7,8 +7,8 @@
 <link type="text/css" rel="stylesheet" href="chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content.css"></head>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">hello world ! </marquee></span></h1></p>
 <figure>
-  <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg">明日香_1</a>
-  <img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg">明日香_2</a>
+  <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg" alt="明日香_1" width="628" height="458" border="0" />
+  <img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg" alt="明日香_2" width="628" height="458" border="0" />
 <figure>
   <img src="https://ics-kano.github.io/16018_myProject/images/animal1.jpg" alt="">
 </figure>
