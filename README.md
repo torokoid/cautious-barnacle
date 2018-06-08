@@ -7,6 +7,9 @@
 <link type="text/css" rel="stylesheet" href="chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content.css"></head>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">hello world ! </marquee></span></h1></p>
 <figure>
+  <a href="https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG">明日香_1</a><figure>
+  <a href="https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG">明日香_2</a>
+<figure>
   <img src="https://ics-kano.github.io/16018_myProject/images/animal1.jpg" alt="">
 </figure>
 <p><h3><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">↑ takeshi-kano-icsさんの画像お借りしました！勝手に借りてごめんなさいm(_ _)m ↑</marquee></span></h3></p>
