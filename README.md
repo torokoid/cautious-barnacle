@@ -26,5 +26,5 @@
 <img src="https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG" alt="ひたち海浜公園のネモフィラ" width="628" height="628" border="0" />
 <br>
 <img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="">
-<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  mahoroba → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
+<p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  mahoroba → <a href="https://torokoid.github.io/mahoroba/">リンク先</a> </marquee></span></h1></p>
 <body class="mod-body"> </body>
