@@ -7,8 +7,8 @@
 <link type="text/css" rel="stylesheet" href="chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content.css"></head>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">hello world ! </marquee></span></h1></p>
 <figure>
-  <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg" alt="明日香_1" width="628" height="458" border="0" />
-  <img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg" alt="明日香_2" width="628" height="458" border="0" />
+  <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg" alt="明日香_1" width="628" height="628" border="0" />
+  <img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg" alt="明日香_2" width="628" height="628" border="0" />
 <figure>
   <img src="https://ics-kano.github.io/16018_myProject/images/animal1.jpg" alt="">
 </figure>
@@ -21,9 +21,9 @@
   <a href="https://plus.google.com/u/0/+torokoidMibu/posts/XGE9FYETsnd">ネモフィラ_2</a>
 </figure>
 <br>
-<img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="nemophira" width="628" height="458" border="0" />
+<img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="nemophira" width="628" height="628" border="0" />
 <br>
-<img src="https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG" alt="ひたち海浜公園のネモフィラ" width="628" height="458" border="0" />
+<img src="https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG" alt="ひたち海浜公園のネモフィラ" width="628" height="628" border="0" />
 <br>
 <img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="">
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  関根マンション情報 → <a href="http://www.isshintaka.jp/">リンク先</a> </marquee></span></h1></p>
