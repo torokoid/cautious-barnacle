@@ -29,7 +29,6 @@ a.p:hover span {
 <br/>
 <figure>
   <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg" alt="明日香_1" width="300" height="300" border="0" />
-  <img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg" alt="明日香_2" width="300" height="300" border="0" />
 <figure>
   <img src="https://ics-kano.github.io/16018_myProject/images/animal1.jpg" alt="">
 </figure>
