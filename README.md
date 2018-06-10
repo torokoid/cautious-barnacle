@@ -25,7 +25,7 @@ a.p:hover span {
     </style>
 </head>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">hello world ! </marquee></span></h1></p>
-こんにちは、<a href="#" class="p">明日香<span><a href="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg">明日香</a></span></a>です。
+こんにちは、<a href="#0.1 ">明日香<span><img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg"" alt="明日香"></span></a>です。
 <br/>
 <figure>
   <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg" alt="明日香_1" width="300" height="300" border="0" />
