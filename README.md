@@ -27,7 +27,7 @@ a.p:hover span {
 </head>
 <body>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">hello world ! </marquee></span></h1></p>
-こんにちは、<a href="#0.1 ">明日香<span><img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg"" alt="明日香"></span></a>です。
+こんにちは、<a href="#0.1_">明日香<span><img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg" alt="明日香"></span></a>です。
 <br/>
 <figure>
   <img src="https://torokoid.github.io/cautious-barnacle/S__9470006.jpg" alt="明日香_1" width="300" height="300" border="0" />
@@ -50,4 +50,4 @@ a.p:hover span {
 <img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="">
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  mahoroba → <a href="https://torokoid.github.io/mahoroba/">リンク先</a> </marquee></span></h1></p>
 <body class="mod-body"> </body>
-  </html>
+
