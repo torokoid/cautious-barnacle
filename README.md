@@ -49,5 +49,11 @@ a.p:hover span {
 <br>
 <img src="https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG" alt="">
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">  mahoroba → <a href="https://torokoid.github.io/mahoroba/">リンク先</a> </marquee></span></h1></p>
-<body class="mod-body"> </body>
+<body class="mod-body">
+
+        <?php
+            echo "Hi, I'm a PHP script!";
+        ?>
+
+</body>
 
