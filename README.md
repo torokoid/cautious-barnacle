@@ -2,14 +2,11 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="css/style.css">
-<link type="text/css" rel="stylesheet" href="chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content.css">
+
 <style type="text/css">
 .bg_fixed1 {
 	height: 600px;
-	background-image: url('https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG');
+	background-image: url('https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG');
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -19,7 +16,7 @@
  
 .bg_fixed2 {
 	height: 600px;
-	background-image: url('https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG');
+	background-image: url('https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG');
 	background-size: cover;
 	background-attachment:fixed;
 	background-repeat: no-repeat;
