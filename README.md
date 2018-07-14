@@ -7,21 +7,30 @@
   <link rel="stylesheet" href="css/style.css">
 <link type="text/css" rel="stylesheet" href="chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content.css">
 <style type="text/css">
-    
-a.p:hover {
-    position: relative;
-    text-decoration: none;
+.bg_fixed1 {
+	height: 600px;
+	background-image: url('https://torokoid.github.io/cautious-barnacle/0B7A7501.JPG');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	z-index: 1;
 }
-a.p span {
-    display: none;
-    position: absolute;
-    top: 1em;
-    left: 0;
+ 
+.bg_fixed2 {
+	height: 600px;
+	background-image: url('https://torokoid.github.io/cautious-barnacle/0B7A7718.JPG');
+	background-size: cover;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	z-index: 1;
 }
-a.p:hover span {
-    border: none;
-    display: block;
-    width: 210px;
+ 
+.scroll {
+	height: 600px;
+	background-color: #A8B8D5;
+	z-index: 2;
 }
     </style>
 </head>
