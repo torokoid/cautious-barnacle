@@ -33,6 +33,11 @@
 </head>
 <body>
 <p><h1><span style="color:#ff0000; background-color:#ffff00;"><marquee behavior="alternate">hello world ! </marquee></span></h1></p>
+<a href="20190504_001.jpg" data-lightbox="abc"><img src="20190504_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190504_002.jpg" data-lightbox="abc"><img src="20190504_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190504_003.jpg" data-lightbox="abc"><img src="20190504_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190504_004.jpg" data-lightbox="abc"><img src="20190504_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190504_005.jpg" data-lightbox="abc"><img src="20190504_005.jpg" alt="サンプル画像" width="900" /></a>
 こんにちは、<a href="#0.1_">明日香<span><img src="https://torokoid.github.io/cautious-barnacle/S__9470007.jpg" alt="明日香"></span></a>です。
 <br/>
 <figure>
